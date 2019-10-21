@@ -7,13 +7,9 @@ description:
 categories: jekyll update
 ---
 ## User Interface
-<center>
-<img src="../img/demo1-ui.png" >
-</center>
+![ui](../img/demo1-ui.png)
 
 
 
 ## Server Design
-<center>
-<img src="../img/demo1-server.png" >
-</center>
+![server](../img/demo1-server.png)
