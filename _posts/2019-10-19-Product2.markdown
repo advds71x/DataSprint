@@ -25,3 +25,6 @@ https://www.vectorstock.com/royalty-free-vector/waste-sorting-recycling-flat-ban
 
 Image Source:
 https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478
+
+## Sketch
+![sketch2](https://advds71x.github.io/DataSprint/img/sketch_kate.jpg)

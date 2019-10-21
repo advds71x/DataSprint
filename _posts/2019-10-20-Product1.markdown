@@ -10,7 +10,13 @@ permalink: /Product1
 ## User Interface
 ![ui](https://advds71x.github.io/DataSprint/img/demo1-ui.png)
 
+* The users can search for the nearby trash cans.
+
 
 
 ## Server Design
 ![server](https://advds71x.github.io/DataSprint/img/demo1-server.png)
+
+* We use the geolocation data from Baltimore City 311 Service Request Data.
+
+* We apply clustering algorithms to find different groups of trash locations. Within each cluster, assign certain numbers of trash cans. 

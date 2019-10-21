@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "Product3"
+title:  "Product3: Trash Cleaning Route Recommendation"
 date:   2019-10-18
 img:
 description:
 permalink: /Product3
 ---
-Under Construction
+## User Interface
+* The sanitation workers can search for the next location and optimal route to pick up the trash.
+* After arriving at the destination, the workers can upload the photos of collected trash and input the type of trash.
+
+## Server Design
+* We use graph theory to represent different trash locations.
+* Then we solve the optimal path within each region for trash cleaning based on Baltimore City 311 Service Request Data.
+
+## Sketch
+![sketch3](https://advds71x.github.io/DataSprint/img/sketch_yifan.jpg)
