@@ -1,9 +1,27 @@
 ---
 layout: post
-title:  "Product2"
+title:  "Product2: Waste Sorting App"
 date:   2019-10-19
 img:
 description:
-categories: jekyll update
+permalink: /Product2
 ---
-Under Construction
+![waste](https://advds71x.github.io/DataSprint/img/waste-sorting.jpg)
+
+Image Source:
+https://www.vectorstock.com/royalty-free-vector/waste-sorting-recycling-flat-banners-set-vector-9586056
+
+## User Interface
+* Once you scan the trash, you will know the categories of the trash.
+* We also provide the typewriting search of the trash categories as an alternative to the image uploading
+
+
+
+
+## Server Design
+* We will train a deep learning model based on the labeled trash image data.
+
+![data](https://advds71x.github.io/DataSprint/img/trash-img-data.png)
+
+Image Source:
+https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478
