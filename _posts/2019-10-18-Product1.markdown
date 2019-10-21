@@ -8,12 +8,12 @@ categories: jekyll update
 ---
 ## User Interface
 <center>
-<img src="{{url}}/img/demo1-ui.png" >
+<img src="DataSprint/img/demo1-ui.png" >
 </center>
 
 
 
 ## Server Design
 <center>
-<img src="{{url}}/img/demo1-server.png" >
+<img src="DataSprint/img/demo1-server.png" >
 </center>
