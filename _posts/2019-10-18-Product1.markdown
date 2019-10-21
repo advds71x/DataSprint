@@ -7,13 +7,9 @@ description:
 categories: jekyll update
 ---
 ## User Interface
-<center>
-<img src="DataSprint/img/demo1-ui.png" >
-</center>
+![ui](https://advds71x.github.io/DataSprint/img/demo1-ui.png)
 
 
 
 ## Server Design
-<center>
-<img src="DataSprint/img/demo1-server.png" >
-</center>
+![server](https://advds71x.github.io/DataSprint/img/demo1-server.png)
