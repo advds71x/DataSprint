@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Product3"
-date:   2019-10-20
+date:   2019-10-18
 img:
 description:
-categories: jekyll update
+permalink: /Product3
 ---
 Under Construction
