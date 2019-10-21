@@ -1,9 +1,19 @@
 ---
 layout: post
-title:  "Product1"
+title:  "Product1: Trash Cans Location App "
 date:   2019-10-18
 img:
 description:
 categories: jekyll update
 ---
-Under Construction
+## User Interface
+<center>
+<img src="/img/demo1-ui.png" >
+</center>
+
+
+
+## Server Design
+<center>
+<img src="/img/demo1-server.png" >
+</center>
