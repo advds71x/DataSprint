@@ -4,7 +4,8 @@ title:  "Product1: Trash Cans Location App "
 date:   2019-10-18
 img:
 description:
-categories: jekyll update
+permalink: /Product1
+#categories: jekyll updat
 ---
 ## User Interface
 ![ui](https://advds71x.github.io/DataSprint/img/demo1-ui.png)
