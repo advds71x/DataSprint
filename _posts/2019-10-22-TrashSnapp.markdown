@@ -69,6 +69,7 @@ we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/14
 
 - Network Architecture
 
+<!--
 | Input     |
 | ----------- |
 | 3 &times; 3 Conv, 64  |
@@ -80,5 +81,6 @@ we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/14
 | FC1  |
 | FC2  |
 | Softmax  |
+-->
 
-<!-- ![demo_nnet](https://advds71x.github.io/DataSprint/img/arch.PNG) -->
+![demo_nnet](https://advds71x.github.io/DataSprint/img/arch.PNG)
