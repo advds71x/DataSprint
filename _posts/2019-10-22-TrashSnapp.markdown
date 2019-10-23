@@ -31,7 +31,7 @@ The general public who needs help with trash sorting
 
 
 ## User Interface
-![ui](https://advds71x.github.io/DataSprint/img/TrashSnapp.png)
+![ui](https://advds71x.github.io/DataSprint/img/TrashSnapp.PNG)
 
 * Once you scan the trash, you will know the categories of the trash.
 * We also provide the typewriting search of the trash categories as an alternative to the image uploading
@@ -56,7 +56,7 @@ p2 = plot(grayscale(glass))
 p3 = plot(glass/2,rescale = F)
 p4 = plot(glass,colorscale = cscale,rescale = F)
 ```
-![glass_panels](https://advds71x.github.io/DataSprint/img/glass_panels.jpg)
+![glass_panels](https://advds71x.github.io/DataSprint/img/glass-panels.jpg)
 
 
 * Classification Algorithm : we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/1409.1556.pdf)
