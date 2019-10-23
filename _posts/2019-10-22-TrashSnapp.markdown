@@ -7,7 +7,6 @@ description:
 permalink: /TrashSnapp
 #categories: jekyll updat
 ---
-## Introduction
 ![waste](https://advds71x.github.io/DataSprint/img/waste-sorting.jpg)
 
 [Image Source](https://www.vectorstock.com/royalty-free-vector/waste-sorting-recycling-flat-banners-set-vector-9586056)
