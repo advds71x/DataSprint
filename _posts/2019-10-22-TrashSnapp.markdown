@@ -38,13 +38,13 @@ The general public who needs help with trash sorting
 
 
 ## Server Design
-* Data Collection
+### Data Collection
   - Trash images and categories manually collected by [Gary Thung and Mindy Yang](https://github.com/garythung/trashnet).
   - Web Crawling and Scraping from Google images
   - Crowdsourcing
 
 
-* Image Data Analysis using R package `imager`
+### Image Data Analysis using R package `imager`
 ```
 setwd("D:/2019-2020/1st term/adv_ds/final-proj/trash/data/dataset-resized/glass")
 library(imager)
@@ -59,7 +59,8 @@ p4 = plot(glass,colorscale = cscale,rescale = F)
 ![glass_panels](https://advds71x.github.io/DataSprint/img/glass-panels.jpg)
 
 
-* Classification Algorithm : we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/1409.1556.pdf)
+### Classification Algorithm
+we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/1409.1556.pdf)
  based on the labeled trash image data.
 
  - Workflow Demo
@@ -67,4 +68,5 @@ p4 = plot(glass,colorscale = cscale,rescale = F)
 ![demo_nnet](https://advds71x.github.io/DataSprint/img/demo_nnet.png)
 
 - Network Architecture
+
 ![demo_nnet](https://advds71x.github.io/DataSprint/img/arch.PNG)
