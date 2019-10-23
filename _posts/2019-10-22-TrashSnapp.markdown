@@ -49,12 +49,18 @@ The general public who needs help with trash sorting
 library(imager)
 library(ggplot2)
 library(gridExtra)
+
+glass = load.image("glass9.jpg")
+glass
+
 par(mfrow=c(2,2))
 p1 = plot(glass)
 p2 = plot(grayscale(glass))
 p3 = plot(glass/2,rescale = F)
 p4 = plot(glass,colorscale = cscale,rescale = F)
 ```
+Image. Width: 512 pix Height: 384 pix Depth: 1 Colour channels: 3
+
 ![glass_panels](https://advds71x.github.io/DataSprint/img/glass-panels.jpg)
 
 
