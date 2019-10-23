@@ -39,14 +39,13 @@ The general public who needs help with trash sorting
 
 ## Server Design
 ### Data Collection
-  - Trash images and categories manually collected by [Gary Thung and Mindy Yang](https://github.com/garythung/trashnet).
+  - Trash images and categories manually collected by [Gary Thung and Mindy Yang](https://github.com/garythung/trashnet). THe dataset currently includes 2527 images and 6 trash classes, about 500 images in each category.  
   - Web Crawling and Scraping from Google images
   - Crowdsourcing
 
 
 ### Image Data Analysis using R package `imager`
 ```
-setwd("D:/2019-2020/1st term/adv_ds/final-proj/trash/data/dataset-resized/glass")
 library(imager)
 library(ggplot2)
 library(gridExtra)
@@ -60,8 +59,7 @@ p4 = plot(glass,colorscale = cscale,rescale = F)
 
 
 ### Classification Algorithm
-we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/1409.1556.pdf)
- based on the labeled trash image data.
+we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/1409.1556.pdf) but fewer layers, based on the labeled trash image data.
 
  - Workflow Demo
 
