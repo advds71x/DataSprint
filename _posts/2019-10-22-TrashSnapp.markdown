@@ -83,7 +83,7 @@ The general public who needs help with trash sorting
 * Failure:
   - Not applicable to non smartphone users
   - Require a clean background when scanning the trash
-* Budget (3-5 month) ($18000)
+* Budget ($18000)
   - Business Analysis ($3000)
   - Data storage/hosting app on servers($2000)
   - App development agent on the features: camera ($1000), access to the gallery($600), internet connection ($600), data collection ($700), offline capabilities ($3500), search ($600), adds($700), data encryption ($1000)
