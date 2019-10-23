@@ -82,3 +82,6 @@ we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/14
 -->
 
 ![demo_nnet](https://advds71x.github.io/DataSprint/img/arch.PNG)
+
+#### Reference
+[CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
