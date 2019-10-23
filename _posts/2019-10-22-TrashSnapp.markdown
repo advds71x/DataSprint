@@ -12,21 +12,6 @@ permalink: /TrashSnapp
 
 [Image Source](https://www.vectorstock.com/royalty-free-vector/waste-sorting-recycling-flat-banners-set-vector-9586056)
 
-* Target audience:
-The general public who needs help with trash sorting
-* Sustain:
-  - Send messages to the users to keep them engaged with the app and enable users to frequently and easily update apps
-  - Market to grow new users
-  - Track the app with analytics
-* Failure:
-  - Not applicable to non smartphone users
-  - Require a clean background when scanning the trash
-* Budget (3-5 month) ($18000)
-  - Business Analysis ($3000)
-  - Data storage/hosting app on servers($2000)
-  - App development agent on the features: camera ($1000), access to the gallery($600), internet connection ($600), data collection ($700), offline capabilities ($3500), search ($600), adds($700), data encryption ($1000)
-  - App release (Google App Play: $25, Apple Store: $99)
-  - App maintenance ($2000)
 
 
 
@@ -88,6 +73,24 @@ we will train a deep learning model similar to [VGGNet](https://arxiv.org/pdf/14
 -->
 
 ![demo_nnet](https://advds71x.github.io/DataSprint/img/arch.PNG)
+
+## Product Analysis
+* Target audience:
+The general public who needs help with trash sorting
+* Sustain:
+  - Send messages to the users to keep them engaged with the app and enable users to frequently and easily update apps
+  - Market to grow new users
+  - Track the app with analytics
+* Failure:
+  - Not applicable to non smartphone users
+  - Require a clean background when scanning the trash
+* Budget (3-5 month) ($18000)
+  - Business Analysis ($3000)
+  - Data storage/hosting app on servers($2000)
+  - App development agent on the features: camera ($1000), access to the gallery($600), internet connection ($600), data collection ($700), offline capabilities ($3500), search ($600), adds($700), data encryption ($1000)
+  - App release (Google App Play: $25, Apple Store: $99)
+  - App maintenance ($2000)
+
 
 #### Reference
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
