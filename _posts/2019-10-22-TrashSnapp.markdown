@@ -23,7 +23,7 @@ permalink: /TrashSnapp
 
 ## Server Design
 ### Data Collection
-  - Trash images and categories manually collected by [Gary Thung and Mindy Yang](https://github.com/garythung/trashnet). THe dataset currently includes 2527 images and 6 trash classes, about 500 images in each category.  
+  - Trash images and categories manually collected by [Gary Thung and Mindy Yang](https://github.com/garythung/trashnet). The dataset currently includes 2527 images and 6 trash classes, about 500 images in each category.  
   - Web Crawling and Scraping from Google images
   - Crowdsourcing
 
